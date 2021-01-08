@@ -1,13 +1,13 @@
 ![](/1.jpg)
 ### Personal Information
-#### Name: Zhang Xinyue
-#### Gender: Female
-#### Email: xhangxinyue-929@outlook.com
+#### Name: Ma Bofei
+#### Gender: Mamale
+#### Email: 826771070@qq.com
 
 ### Career Objection
 #### Student
 
 ### Education
-#### 2019-2021 Tianjin Univesity 
+#### 2018-2022 Tianjin Univesity 
 
 
