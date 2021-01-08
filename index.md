@@ -1,27 +1,13 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
+![](/1.jpg)
+### Personal Information
+#### Name: Zhang Xinyue
+#### Gender: Female
+#### Email: xhangxinyue-929@outlook.com
 
-<title>呵呵</title>
+### Career Objection
+#### Student
 
-</head>
+### Education
+#### 2019-2021 Tianjin Univesity 
 
-<body>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/1.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
-</body>
 
-</html>
